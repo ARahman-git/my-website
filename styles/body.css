@@ -1,0 +1,155 @@
+.body {
+    margin: 0px;
+}
+.container-body {
+  background-color:rgba(176, 201, 241, 0.568);
+  height: 1500px;
+}
+
+  
+
+.pp-container {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  height: 250px;  
+}
+
+.pp-container div {
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.pp-container img {
+  width: 100%;
+  filter: grayscale(100%);
+}
+
+.container-body p {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: -16px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Latest-project {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.lp-button {
+  
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: solid;
+  border-color: black;
+  box-shadow: 100px;
+
+}
+.lp-button:hover {
+  border: solid;
+  border-color: white;
+  background-color: black;
+  color: white;
+}
+.japari {
+  height: 60px;
+  margin-top: 15px;
+  padding: 20px 0px 0px 10px;
+  font-size: 40px;
+  font-family: 'Playball', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'STIX Two Text', serif;
+}
+.language-container {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  row-gap: 40px;
+ justify-content: space-between;
+ font-size: 40px;
+ margin-top: 20px;
+ background-color: rgba(171, 201, 248, 0.568);
+ height: 100px;
+ align-items: center;
+ font-family: 'Playball', cursive;
+ font-family: 'STIX Two Text', serif;
+ padding-left: 15px;
+ padding-right: 15px;
+}
+.Collaborate {
+  margin-top: 150px;
+  font-size: 30px;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  left: 50px;
+  font-family: 'Playball', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'STIX Two Text', serif;
+}
+.Mahfuzul {
+  border: solid;
+  height: 400px;
+  width: 400px;
+  display:flex;
+  flex: 1;
+  flex-direction: column;
+  margin-left: 30px;
+  margin-top: 40px;
+  border-radius: 2px;
+  align-items: center;
+  
+}
+
+.pic {
+  height: 80px;
+  padding-top: 50px;
+  border-radius: 50%;
+
+}
+.nm {
+  margin-top: 10px;
+  font-family: 'Playball', cursive;
+  font-family: 'STIX Two Text', serif;
+}
+.prof {
+  font-family: 'Playball', cursive;
+font-family: 'STIX Two Text', serif;  
+}
+.Mahfuzul-email {
+  margin-top: 6px;
+}
+.Collaborate-card-developer {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+.get {
+  height: 20px;
+}
+.Touch {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  
+  
+
+}
+.bbc {
+  font-family: 'STIX Two Text', serif;
+  font-family: 'Playball', cursive;
+  font-size: 20px;
+  
+}
+.get-button {
+  width: 120px;
+}
